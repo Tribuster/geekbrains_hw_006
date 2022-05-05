@@ -1,2 +1,2 @@
 # geekbrains_hw_006
-GeekBrains yomework 006
+GeekBrains homework 006
